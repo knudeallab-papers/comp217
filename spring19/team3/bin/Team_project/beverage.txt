@@ -1,0 +1,12 @@
+PocariSweat 2300 10
+PowerAde 2000 10
+Cider 1800 10
+Coke 1900 10
+BlackTea 1500 10
+GreenTea 1500 10
+Coffee 1600 10
+Yoflle 1300 10
+2% 1000 10
+MountainDew 1300 10
+RedBull 2500 10
+Monster 2000 10

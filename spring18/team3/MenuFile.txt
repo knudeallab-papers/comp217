@@ -1,0 +1,19 @@
+6
+Chicken_Momo_Chat 3000 1500
+밀가루 닭고기 
+1 1 
+Barbecue_Maggi 2000 1000
+밀가루 바베큐소스 파 
+1 1 1 
+Orange_Juice 1500 500
+오렌지 
+2 
+Fried_Noodle 2500 1500
+밀가루 양파 당근 파 
+1 1 1 1 
+Fried_Rice 2500 1000
+쌀 양파 당근 파 
+1 1 1 1 
+Chicken_pop 3000 1500
+닭고기 밀가루 
+2 1 

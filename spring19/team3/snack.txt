@@ -1,0 +1,12 @@
+SwingChip 1500 10
+ChocoPie 4000 10
+SunChip 1000 10
+bananaKick 1700 10
+ButterRing 2500 10
+Oh!Yes 4500 10
+Pocky 1000 10
+HoneyButterChip 2300 10
+BigPie 3500 10
+HomeRunBall 1500 10
+CornChip 1600 10
+postick 2000 10

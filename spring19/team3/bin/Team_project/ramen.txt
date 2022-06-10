@@ -1,0 +1,12 @@
+ShinRamen 1500 10
+ShinRamenBlack 1600 10
+AnSungTangMyean 1300 10
+JinRamen 1400 10
+SamYangRamen 1200 10
+BulDak 1800 10
+BulDakCheese 1800 10
+YukGaeJang 1000 10
+SaeYuTang 1200 10
+KimChiRamen 1300 10
+BiBimMyean 1100 10
+ChamGgaRamyean 1200 10
